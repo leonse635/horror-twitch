@@ -1,4 +1,4 @@
-# Horrortwitch
+# Horror twitch
 
 ### Как скачать игру
 1. Зайдите в релизы
